@@ -1,0 +1,25 @@
+{
+	"name": "xutengx/project-satis-test",
+	"description": "project-satis-test",
+	"keywords": [
+		"satis",
+		"xuteng",
+		"test"
+	],
+	"license": "MIT",
+	"type": "library",
+	"authors": [
+		{
+			"name": "xuteng",
+			"email": "68822684@qq.com"
+		}
+	],
+	"require": {
+		"php": ">=7.1.0"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "^7",
+		"phpunit/php-invoker": "^2.0",
+		"phpunit/dbunit": "^4.0"
+	}
+}
